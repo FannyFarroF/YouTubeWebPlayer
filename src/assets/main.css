@@ -1,0 +1,16 @@
+@import './base.css';
+
+.content-video
+{
+  height: 500px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.item-video{
+  border-radius: 10px;
+}
+
+.thumbnail{
+  border-radius: 10px;
+  overflow: hidden;
+}
