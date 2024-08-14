@@ -1,5 +1,5 @@
 # Project youtube-web-me
-link [link in netlify](https://youtubewebplayerffarro.netlify.app/).
+[link in netlify](https://youtubewebplayerffarro.netlify.app/).
 
 # youtube-web-me
 
