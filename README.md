@@ -1,17 +1,15 @@
-# Project youtube-web-me
-[link in netlify](https://youtubewebplayerffarro.netlify.app/).
+# youtube-web-personal
 
-# youtube-web-me
+Esta aplicación simple de vue 3 que permite al usuario buscar y reproducir videos de youtube.
 
-This template should help get you started developing with Vue 3 in Vite.
+## DEMO
 
-## Recommended IDE Setup
+[link](https://youtubewebplayerffarro.netlify.app/).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Tecnologías Utilizas
+- Vue 3
+- Composition API
+- Youtube API
 
 ## Project Setup
 
